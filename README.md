@@ -14,7 +14,7 @@ This .reg file modifies the Windows Registry to enforce policies for several Bra
 | Speedreader  | Disabled  |
 
 ## Installation / Usage
-- [Download]() the DebloatBraveBrowser.reg file from this repository.
+- [Download](https://github.com/PixelIndieDev/DebloatBraveBrowser/releases/download/V1/DebloatBraveBrowser.reg) the DebloatBraveBrowser.reg file from this repository.
 - Double-click the file to run it.
 - Click **Yes** when the User Account Control (UAC) prompt appears.
 - Click **Yes** to confirm you want to add the information to the registry.
